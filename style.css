@@ -504,6 +504,7 @@ a {
 .hero-title .accent {
   background: linear-gradient(135deg, var(--gold-light), #FFD700, var(--saffron));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0 0 20px rgba(212, 168, 67, 0.2);
   display: block;
