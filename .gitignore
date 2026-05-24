@@ -1,0 +1,6 @@
+.agent/
+.skills/
+.vscode/
+__pycache__/
+*.pyc
+node_modules/
