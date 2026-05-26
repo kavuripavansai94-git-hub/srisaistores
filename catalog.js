@@ -9,37 +9,37 @@ const catalogData = [
       {
         name: "Snacks & Biscuits",
         items: [
-          { name: "Oreo Original", image: "images/shop-image-1.png", desc: "Classic chocolate sandwich cookies. A favorite for kids and adults alike." },
-          { name: "Good Day Cashew", image: "images/shop-image-2.png", desc: "Rich butter cookies generously packed with cashew nuts." },
-          { name: "Bingo Mad Angles", image: "images/shop-image-3.png", desc: "Crispy and spicy triangle chips. Perfect for movie nights." },
-          { name: "Parle-G", image: "images/shop-image-1.png", desc: "The original glucose biscuit." },
-          { name: "Britannia Marie Gold", image: "images/shop-image-2.png", desc: "Light and crispy tea-time biscuits." },
-          { name: "Haldiram's Bhujia", image: "images/shop-image-3.png", desc: "Spicy and crunchy besan snacks." },
-          { name: "Maggi 2-Minute Noodles", image: "images/shop-image-1.png", desc: "Classic masala instant noodles." }
+          { name: "Oreo Original", image: "images/shop-image-1.webp", desc: "Classic chocolate sandwich cookies. A favorite for kids and adults alike." },
+          { name: "Good Day Cashew", image: "images/shop-image-2.webp", desc: "Rich butter cookies generously packed with cashew nuts." },
+          { name: "Bingo Mad Angles", image: "images/shop-image-3.webp", desc: "Crispy and spicy triangle chips. Perfect for movie nights." },
+          { name: "Parle-G", image: "images/shop-image-1.webp", desc: "The original glucose biscuit." },
+          { name: "Britannia Marie Gold", image: "images/shop-image-2.webp", desc: "Light and crispy tea-time biscuits." },
+          { name: "Haldiram's Bhujia", image: "images/shop-image-3.webp", desc: "Spicy and crunchy besan snacks." },
+          { name: "Maggi 2-Minute Noodles", image: "images/shop-image-1.webp", desc: "Classic masala instant noodles." }
         ]
       },
       {
         name: "Personal Care",
         items: [
-          { name: "Dove Beauty Bar", image: "images/shop-image-2.png", desc: "Moisturizing cream bar for soft, glowing skin." },
-          { name: "Lux Soap", image: "images/shop-image-3.png", desc: "Fragrant beauty soap for a refreshing bath." },
-          { name: "Himalaya Face Wash", image: "images/shop-image-1.png", desc: "Purifying neem face wash for clear skin." },
-          { name: "Pears Pure & Gentle", image: "images/shop-image-2.png", desc: "Glycerin soap for sensitive skin." },
-          { name: "Clinic Plus Shampoo", image: "images/shop-image-3.png", desc: "Strong and long hair shampoo." },
-          { name: "Colgate Strong Teeth", image: "images/shop-image-1.png", desc: "Calcium-rich everyday toothpaste." },
-          { name: "Parachute Coconut Oil", image: "images/shop-image-2.png", desc: "100% pure coconut hair oil." }
+          { name: "Dove Beauty Bar", image: "images/shop-image-2.webp", desc: "Moisturizing cream bar for soft, glowing skin." },
+          { name: "Lux Soap", image: "images/shop-image-3.webp", desc: "Fragrant beauty soap for a refreshing bath." },
+          { name: "Himalaya Face Wash", image: "images/shop-image-1.webp", desc: "Purifying neem face wash for clear skin." },
+          { name: "Pears Pure & Gentle", image: "images/shop-image-2.webp", desc: "Glycerin soap for sensitive skin." },
+          { name: "Clinic Plus Shampoo", image: "images/shop-image-3.webp", desc: "Strong and long hair shampoo." },
+          { name: "Colgate Strong Teeth", image: "images/shop-image-1.webp", desc: "Calcium-rich everyday toothpaste." },
+          { name: "Parachute Coconut Oil", image: "images/shop-image-2.webp", desc: "100% pure coconut hair oil." }
         ]
       },
       {
         name: "Home Utilities",
         items: [
-          { name: "Surf Excel Detergent", image: "images/shop-image-2.png", desc: "Powerful stain removal powder." },
-          { name: "Vim Bar", image: "images/shop-image-3.png", desc: "Tough on grease, gentle on hands." },
-          { name: "Rin Detergent Bar", image: "images/shop-image-1.png", desc: "Bright clean for clothes." },
-          { name: "Harpic Power Plus", image: "images/shop-image-2.png", desc: "Original toilet cleaner." },
-          { name: "Lizol Floor Cleaner", image: "images/shop-image-3.png", desc: "Disinfectant surface cleaner." },
-          { name: "Good Knight Gold Flash", image: "images/shop-image-1.png", desc: "Liquid mosquito repellent refill." },
-          { name: "Matchboxes (Bundle)", image: "images/shop-image-2.png", desc: "Standard safety matches." }
+          { name: "Surf Excel Detergent", image: "images/shop-image-2.webp", desc: "Powerful stain removal powder." },
+          { name: "Vim Bar", image: "images/shop-image-3.webp", desc: "Tough on grease, gentle on hands." },
+          { name: "Rin Detergent Bar", image: "images/shop-image-1.webp", desc: "Bright clean for clothes." },
+          { name: "Harpic Power Plus", image: "images/shop-image-2.webp", desc: "Original toilet cleaner." },
+          { name: "Lizol Floor Cleaner", image: "images/shop-image-3.webp", desc: "Disinfectant surface cleaner." },
+          { name: "Good Knight Gold Flash", image: "images/shop-image-1.webp", desc: "Liquid mosquito repellent refill." },
+          { name: "Matchboxes (Bundle)", image: "images/shop-image-2.webp", desc: "Standard safety matches." }
         ]
       }
     ]
@@ -54,32 +54,32 @@ const catalogData = [
       {
         name: "Writing Materials",
         items: [
-          { name: "Cello Gripper Pen", image: "images/shop-image-3.png", desc: "Smooth writing ballpoint pen with a comfortable grip." },
-          { name: "Apsara Pencils (Pack of 10)", image: "images/shop-image-1.png", desc: "Extra dark pencils complete with eraser and sharpener." },
-          { name: "Highlighters", image: "images/shop-image-2.png", desc: "Bright fluorescent colors for study notes." },
-          { name: "Reynolds Brite", image: "images/shop-image-3.png", desc: "Classic blue ball pen." },
-          { name: "Whiteboard Markers", image: "images/shop-image-1.png", desc: "Dry erase markers (Assorted colors)." },
-          { name: "Nataraj Erasers", image: "images/shop-image-2.png", desc: "Dust-free non-toxic erasers." }
+          { name: "Cello Gripper Pen", image: "images/shop-image-3.webp", desc: "Smooth writing ballpoint pen with a comfortable grip." },
+          { name: "Apsara Pencils (Pack of 10)", image: "images/shop-image-1.webp", desc: "Extra dark pencils complete with eraser and sharpener." },
+          { name: "Highlighters", image: "images/shop-image-2.webp", desc: "Bright fluorescent colors for study notes." },
+          { name: "Reynolds Brite", image: "images/shop-image-3.webp", desc: "Classic blue ball pen." },
+          { name: "Whiteboard Markers", image: "images/shop-image-1.webp", desc: "Dry erase markers (Assorted colors)." },
+          { name: "Nataraj Erasers", image: "images/shop-image-2.webp", desc: "Dust-free non-toxic erasers." }
         ]
       },
       {
         name: "Notebooks & Paper",
         items: [
-          { name: "Classmate 172 Pages", image: "images/shop-image-2.png", desc: "Premium quality ruled notebook for students." },
-          { name: "Drawing Book", image: "images/shop-image-3.png", desc: "Thick unruled pages ideal for sketching and coloring." },
-          { name: "A4 Printing Paper", image: "images/shop-image-1.png", desc: "Bright white paper for pristine printouts." },
-          { name: "Spiral Notebooks", image: "images/shop-image-2.png", desc: "A4 size spiral bound ruled books." },
-          { name: "Practical Record Book", image: "images/shop-image-3.png", desc: "Hardbound science practical records." },
-          { name: "Sticky Notes", image: "images/shop-image-1.png", desc: "Neon colored adhesive notes." }
+          { name: "Classmate 172 Pages", image: "images/shop-image-2.webp", desc: "Premium quality ruled notebook for students." },
+          { name: "Drawing Book", image: "images/shop-image-3.webp", desc: "Thick unruled pages ideal for sketching and coloring." },
+          { name: "A4 Printing Paper", image: "images/shop-image-1.webp", desc: "Bright white paper for pristine printouts." },
+          { name: "Spiral Notebooks", image: "images/shop-image-2.webp", desc: "A4 size spiral bound ruled books." },
+          { name: "Practical Record Book", image: "images/shop-image-3.webp", desc: "Hardbound science practical records." },
+          { name: "Sticky Notes", image: "images/shop-image-1.webp", desc: "Neon colored adhesive notes." }
         ]
       },
       {
         name: "Art & Craft",
         items: [
-          { name: "Camlin Wax Crayons", image: "images/shop-image-2.png", desc: "24 shades non-toxic crayons." },
-          { name: "Fevicol MR", image: "images/shop-image-3.png", desc: "White adhesive glue for paper and craft." },
-          { name: "Watercolors Set", image: "images/shop-image-1.png", desc: "12 shade watercolor cakes with brush." },
-          { name: "Glitter Pens", image: "images/shop-image-2.png", desc: "Sparkling gel pens for decoration." }
+          { name: "Camlin Wax Crayons", image: "images/shop-image-2.webp", desc: "24 shades non-toxic crayons." },
+          { name: "Fevicol MR", image: "images/shop-image-3.webp", desc: "White adhesive glue for paper and craft." },
+          { name: "Watercolors Set", image: "images/shop-image-1.webp", desc: "12 shade watercolor cakes with brush." },
+          { name: "Glitter Pens", image: "images/shop-image-2.webp", desc: "Sparkling gel pens for decoration." }
         ]
       }
     ]
@@ -94,29 +94,29 @@ const catalogData = [
       {
         name: "Accessories",
         items: [
-          { name: "Hair Clips Set", image: "images/store-interior-1.png", desc: "Beautiful designer hair clips for daily wear." },
-          { name: "Traditional Bangles", image: "images/store-interior-2.png", desc: "Colorful glass and metal bangles for festivals." },
-          { name: "Bindis", image: "images/store-interior.png", desc: "Assorted stone and velvet bindis." },
-          { name: "Scrunchies & Hair Bands", image: "images/store-interior-1.png", desc: "Soft fabric hair ties in vibrant colors." },
-          { name: "Fashion Earrings", image: "images/store-interior-2.png", desc: "Trendy everyday wear earrings." },
-          { name: "Safety Pins (Box)", image: "images/store-interior.png", desc: "Rust-free safety pins in all sizes." }
+          { name: "Hair Clips Set", image: "images/store-interior-1.webp", desc: "Beautiful designer hair clips for daily wear." },
+          { name: "Traditional Bangles", image: "images/store-interior-2.webp", desc: "Colorful glass and metal bangles for festivals." },
+          { name: "Bindis", image: "images/store-interior.webp", desc: "Assorted stone and velvet bindis." },
+          { name: "Scrunchies & Hair Bands", image: "images/store-interior-1.webp", desc: "Soft fabric hair ties in vibrant colors." },
+          { name: "Fashion Earrings", image: "images/store-interior-2.webp", desc: "Trendy everyday wear earrings." },
+          { name: "Safety Pins (Box)", image: "images/store-interior.webp", desc: "Rust-free safety pins in all sizes." }
         ]
       },
       {
         name: "Gifting",
         items: [
-          { name: "Gift Wraps", image: "images/store-interior-2.png", desc: "Elegant wrapping paper in various finishes." },
-          { name: "Keychains", image: "images/store-interior-1.png", desc: "Cute and premium metal keychains." },
-          { name: "Birthday Cards", image: "images/store-interior-2.png", desc: "Greeting cards for all occasions." },
-          { name: "Small Perfumes", image: "images/store-interior.png", desc: "Pocket perfumes and body sprays." }
+          { name: "Gift Wraps", image: "images/store-interior-2.webp", desc: "Elegant wrapping paper in various finishes." },
+          { name: "Keychains", image: "images/store-interior-1.webp", desc: "Cute and premium metal keychains." },
+          { name: "Birthday Cards", image: "images/store-interior-2.webp", desc: "Greeting cards for all occasions." },
+          { name: "Small Perfumes", image: "images/store-interior.webp", desc: "Pocket perfumes and body sprays." }
         ]
       },
       {
         name: "Cosmetics",
         items: [
-          { name: "Nail Polish", image: "images/store-interior-1.png", desc: "Long-lasting colors in various shades." },
-          { name: "Eyeliner & Kajal", image: "images/store-interior-2.png", desc: "Waterproof daily wear kajal." },
-          { name: "Ponds Dreamflower Talc", image: "images/store-interior.png", desc: "Classic fragrant talcum powder." }
+          { name: "Nail Polish", image: "images/store-interior-1.webp", desc: "Long-lasting colors in various shades." },
+          { name: "Eyeliner & Kajal", image: "images/store-interior-2.webp", desc: "Waterproof daily wear kajal." },
+          { name: "Ponds Dreamflower Talc", image: "images/store-interior.webp", desc: "Classic fragrant talcum powder." }
         ]
       }
     ]
@@ -131,18 +131,18 @@ const catalogData = [
       {
         name: "Everyday Wear",
         items: [
-          { name: "Cotton Sarees", image: "images/store-interior-2.png", desc: "Comfortable, breathable sarees for daily wear." },
-          { name: "Lungis", image: "images/store-interior.png", desc: "Premium quality cotton lungis." },
-          { name: "Nightgowns", image: "images/store-interior-1.png", desc: "Soft cotton daily-wear nighties." }
+          { name: "Cotton Sarees", image: "images/store-interior-2.webp", desc: "Comfortable, breathable sarees for daily wear." },
+          { name: "Lungis", image: "images/store-interior.webp", desc: "Premium quality cotton lungis." },
+          { name: "Nightgowns", image: "images/store-interior-1.webp", desc: "Soft cotton daily-wear nighties." }
         ]
       },
       {
         name: "Innerwear & Basics",
         items: [
-          { name: "Cotton Towels", image: "images/store-interior-1.png", desc: "Highly absorbent bath towels." },
-          { name: "Handkerchiefs", image: "images/store-interior-2.png", desc: "Soft cotton hankies." },
-          { name: "Cotton Socks", image: "images/store-interior.png", desc: "Breathable everyday socks." },
-          { name: "Vests & Briefs", image: "images/store-interior-1.png", desc: "Comfortable cotton innerwear." }
+          { name: "Cotton Towels", image: "images/store-interior-1.webp", desc: "Highly absorbent bath towels." },
+          { name: "Handkerchiefs", image: "images/store-interior-2.webp", desc: "Soft cotton hankies." },
+          { name: "Cotton Socks", image: "images/store-interior.webp", desc: "Breathable everyday socks." },
+          { name: "Vests & Briefs", image: "images/store-interior-1.webp", desc: "Comfortable cotton innerwear." }
         ]
       }
     ]
@@ -157,18 +157,18 @@ const catalogData = [
       {
         name: "Print & Copy",
         items: [
-          { name: "B&W Photocopy", image: "images/store-interior-1.png", desc: "Clear and crisp document copying." },
-          { name: "Colour Printout", image: "images/store-interior-2.png", desc: "High quality color prints." },
-          { name: "Spiral Binding", image: "images/store-interior.png", desc: "Professional project binding." },
-          { name: "Lamination", image: "images/store-interior-1.png", desc: "Protective plastic lamination for documents." }
+          { name: "B&W Photocopy", image: "images/store-interior-1.webp", desc: "Clear and crisp document copying." },
+          { name: "Colour Printout", image: "images/store-interior-2.webp", desc: "High quality color prints." },
+          { name: "Spiral Binding", image: "images/store-interior.webp", desc: "Professional project binding." },
+          { name: "Lamination", image: "images/store-interior-1.webp", desc: "Protective plastic lamination for documents." }
         ]
       },
       {
         name: "Online Help",
         items: [
-          { name: "Form Filling", image: "images/store-interior-2.png", desc: "Assistance with government and school forms." },
-          { name: "Bill Payments", image: "images/store-interior-1.png", desc: "Quick utility bill payments." },
-          { name: "PAN Card Application", image: "images/store-interior.png", desc: "Help with new PAN cards or corrections." }
+          { name: "Form Filling", image: "images/store-interior-2.webp", desc: "Assistance with government and school forms." },
+          { name: "Bill Payments", image: "images/store-interior-1.webp", desc: "Quick utility bill payments." },
+          { name: "PAN Card Application", image: "images/store-interior.webp", desc: "Help with new PAN cards or corrections." }
         ]
       }
     ]
@@ -183,30 +183,30 @@ const catalogData = [
       {
         name: "Chips & Snacks",
         items: [
-          { name: "Bingo Mad Angles", image: "images/shop-image-3.png", desc: "Crispy, spicy triangle chips for the perfect crunch." },
-          { name: "Lays Classic Salted", image: "images/shop-image-2.png", desc: "The original timeless potato chips." },
-          { name: "Kurkure Masala Munch", image: "images/shop-image-1.png", desc: "Crunchy and spicy corn puff snacks." },
-          { name: "Doritos Nacho Cheese", image: "images/shop-image-2.png", desc: "Bold cheese flavored tortilla chips." }
+          { name: "Bingo Mad Angles", image: "images/shop-image-3.webp", desc: "Crispy, spicy triangle chips for the perfect crunch." },
+          { name: "Lays Classic Salted", image: "images/shop-image-2.webp", desc: "The original timeless potato chips." },
+          { name: "Kurkure Masala Munch", image: "images/shop-image-1.webp", desc: "Crunchy and spicy corn puff snacks." },
+          { name: "Doritos Nacho Cheese", image: "images/shop-image-2.webp", desc: "Bold cheese flavored tortilla chips." }
         ]
       },
       {
         name: "Chocolates & Candies",
         items: [
-          { name: "Dairy Milk Silk", image: "images/shop-image-1.png", desc: "Premium smooth milk chocolate." },
-          { name: "5 Star", image: "images/shop-image-3.png", desc: "Chewy caramel and chocolate bar." },
-          { name: "KitKat", image: "images/shop-image-2.png", desc: "Crispy wafer fingers covered in chocolate." },
-          { name: "Pulse Candy", image: "images/shop-image-1.png", desc: "Tangy mango candy with a spicy center." },
-          { name: "Kinder Joy", image: "images/shop-image-3.png", desc: "Milk and cocoa cream with a surprise toy." }
+          { name: "Dairy Milk Silk", image: "images/shop-image-1.webp", desc: "Premium smooth milk chocolate." },
+          { name: "5 Star", image: "images/shop-image-3.webp", desc: "Chewy caramel and chocolate bar." },
+          { name: "KitKat", image: "images/shop-image-2.webp", desc: "Crispy wafer fingers covered in chocolate." },
+          { name: "Pulse Candy", image: "images/shop-image-1.webp", desc: "Tangy mango candy with a spicy center." },
+          { name: "Kinder Joy", image: "images/shop-image-3.webp", desc: "Milk and cocoa cream with a surprise toy." }
         ]
       },
       {
         name: "Beverages",
         items: [
-          { name: "Sprite (750ml)", image: "images/store-interior-1.png", desc: "Clear, crisp, refreshing lemon-lime soda." },
-          { name: "Frooti", image: "images/store-interior-2.png", desc: "Fresh and juicy mango drink." },
-          { name: "Thums Up", image: "images/store-interior.png", desc: "Strong and fizzy cola." },
-          { name: "Real Fruit Juice", image: "images/store-interior-1.png", desc: "100% real mixed fruit juice." },
-          { name: "Paper Boat", image: "images/store-interior-2.png", desc: "Traditional Indian flavored drinks." }
+          { name: "Sprite (750ml)", image: "images/store-interior-1.webp", desc: "Clear, crisp, refreshing lemon-lime soda." },
+          { name: "Frooti", image: "images/store-interior-2.webp", desc: "Fresh and juicy mango drink." },
+          { name: "Thums Up", image: "images/store-interior.webp", desc: "Strong and fizzy cola." },
+          { name: "Real Fruit Juice", image: "images/store-interior-1.webp", desc: "100% real mixed fruit juice." },
+          { name: "Paper Boat", image: "images/store-interior-2.webp", desc: "Traditional Indian flavored drinks." }
         ]
       }
     ]
@@ -221,20 +221,20 @@ const catalogData = [
       {
         name: "Toy Vehicles",
         items: [
-          { name: "Hot Wheels Pack", image: "images/store-interior-1.png", desc: "Die-cast metal toy cars." },
-          { name: "Pull-back Cars", image: "images/store-interior-2.png", desc: "Fun friction-powered mini cars." },
-          { name: "Remote Control Car", image: "images/store-interior.png", desc: "Battery operated RC cars for kids." },
-          { name: "Toy Trains", image: "images/store-interior-1.png", desc: "Classic winding toy trains." }
+          { name: "Hot Wheels Pack", image: "images/store-interior-1.webp", desc: "Die-cast metal toy cars." },
+          { name: "Pull-back Cars", image: "images/store-interior-2.webp", desc: "Fun friction-powered mini cars." },
+          { name: "Remote Control Car", image: "images/store-interior.webp", desc: "Battery operated RC cars for kids." },
+          { name: "Toy Trains", image: "images/store-interior-1.webp", desc: "Classic winding toy trains." }
         ]
       },
       {
         name: "Play Sets & Games",
         items: [
-          { name: "Barbie Doll", image: "images/shop-image-1.png", desc: "Classic fashion doll with accessories." },
-          { name: "Building Blocks", image: "images/shop-image-2.png", desc: "Creative interlocking plastic bricks." },
-          { name: "Kitchen Set", image: "images/shop-image-3.png", desc: "Miniature cooking set for pretend play." },
-          { name: "Ludo & Snakes and Ladders", image: "images/shop-image-1.png", desc: "Classic board game." },
-          { name: "Playing Cards", image: "images/shop-image-2.png", desc: "Standard deck of playing cards." }
+          { name: "Barbie Doll", image: "images/shop-image-1.webp", desc: "Classic fashion doll with accessories." },
+          { name: "Building Blocks", image: "images/shop-image-2.webp", desc: "Creative interlocking plastic bricks." },
+          { name: "Kitchen Set", image: "images/shop-image-3.webp", desc: "Miniature cooking set for pretend play." },
+          { name: "Ludo & Snakes and Ladders", image: "images/shop-image-1.webp", desc: "Classic board game." },
+          { name: "Playing Cards", image: "images/shop-image-2.webp", desc: "Standard deck of playing cards." }
         ]
       }
     ]
@@ -249,19 +249,19 @@ const catalogData = [
       {
         name: "Containers & Storage",
         items: [
-          { name: "Airtight Plastic Containers", image: "images/store-interior-2.png", desc: "Durable food-grade storage boxes." },
-          { name: "Water Bottles (1L)", image: "images/shop-image-3.png", desc: "BPA-free daily use water bottles." },
-          { name: "Spice Boxes", image: "images/store-interior-1.png", desc: "Multi-compartment boxes for kitchen spices." }
+          { name: "Airtight Plastic Containers", image: "images/store-interior-2.webp", desc: "Durable food-grade storage boxes." },
+          { name: "Water Bottles (1L)", image: "images/shop-image-3.webp", desc: "BPA-free daily use water bottles." },
+          { name: "Spice Boxes", image: "images/store-interior-1.webp", desc: "Multi-compartment boxes for kitchen spices." }
         ]
       },
       {
         name: "Utility & Cleaning",
         items: [
-          { name: "Plastic Buckets", image: "images/store-interior-1.png", desc: "Strong and flexible bathroom buckets." },
-          { name: "Plastic Mugs", image: "images/store-interior-2.png", desc: "Matching bathroom mugs." },
-          { name: "Dustpans & Brooms", image: "images/store-interior.png", desc: "Essential cleaning tools." },
-          { name: "Plastic Stools", image: "images/store-interior-1.png", desc: "Small sturdy stools for bathroom use." },
-          { name: "Cloth Hangers", image: "images/store-interior-2.png", desc: "Durable plastic hangers." }
+          { name: "Plastic Buckets", image: "images/store-interior-1.webp", desc: "Strong and flexible bathroom buckets." },
+          { name: "Plastic Mugs", image: "images/store-interior-2.webp", desc: "Matching bathroom mugs." },
+          { name: "Dustpans & Brooms", image: "images/store-interior.webp", desc: "Essential cleaning tools." },
+          { name: "Plastic Stools", image: "images/store-interior-1.webp", desc: "Small sturdy stools for bathroom use." },
+          { name: "Cloth Hangers", image: "images/store-interior-2.webp", desc: "Durable plastic hangers." }
         ]
       }
     ]
